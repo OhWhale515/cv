@@ -1,0 +1,19 @@
+body {
+    background-color: #1E5118;		
+}	
+h1 {
+    color: goldenrod;
+    
+}
+
+h3 {
+    color: goldenrod;
+    
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: goldenrod;
+    border-width: 5px;
+    width: 5%;
+}	
